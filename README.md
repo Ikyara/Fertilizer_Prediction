@@ -1,4 +1,5 @@
 Fertilizer Prediction using Machine Learning
+
 This project uses machine learning models to predict the type of fertilizer based on agricultural inputs like district name, soil color, crop type, and nutrient values. It explores basic preprocessing, model building, evaluation, and making predictions.
 
 Overview
