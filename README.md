@@ -40,10 +40,11 @@ The model expects encoded input values, so input features must follow the same p
 You can modify the dataset or model parameters to improve accuracy or adapt to different crops or regions.
 
 Run the requirements.txt after cloning by using
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Or run the following line of code in ur environment cmd
-pip install pandas numpy scikit-learn matplotlib seaborn
+
+```pip install pandas numpy scikit-learn matplotlib seaborn```
 
 
 
